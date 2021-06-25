@@ -1,0 +1,149 @@
+body{
+  font-family: 'Varta', sans-serif;
+}
+#home{
+  background-image:  url('check.png') ;
+  background-repeat: no-repeat;
+   background-size: cover;
+   padding-left: 0;
+}
+.navbar{
+  position: fixed;
+  top:0;
+  width: 98%;
+  background-color:#ebdc87;
+  z-index:9999;
+padding-bottom:0;
+padding-top: 0px;
+
+}
+.brandName{
+  color: #ff896b;
+  font-size: 2.5rem;
+  font-weight: bolder;
+
+}
+.brandName:hover{
+  color:white;
+  text-decoration: none;
+}
+.nav-link{
+  color:white;
+  font-size: 1.2rem;
+  font-weight:bold;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+     background-color:#ff5f40;
+}
+.intro{
+  padding: 50px;
+  padding-left: 100px;
+
+}
+.tagline{
+  color:white;
+  width: 40%;
+  font-weight: bolder;
+}
+.discription{
+  color: white;
+  font-size:1.3rem;
+
+}
+.mobileimg{
+  height: 500px;
+}
+#about{
+  background-color: #f3ecc2;
+}
+.aboutusdiv{
+  padding: 70px;
+}
+.aboutUs{
+  color: #e8505b;
+  font-size: 3rem;
+}
+.aboutPara{
+  color:#393e46;
+}
+.aboutimgdiv{
+  padding: 70px;
+
+}
+.aboutUsImg{
+  height: 400px;
+  width: 400px;
+}
+.pro{
+  padding:60px;
+}
+.productsHeading{
+  text-align: center;
+  color:#e8505b;
+}
+.productLine{
+  width :7%;
+    border-top: 6px solid #8c8b8b;
+    border-radius: 60%;
+
+}
+
+.boxes{
+  padding: 20px;
+  text-align: center;
+  color: #8c8b8b;
+  /* background-color: #dee3e2; */
+
+}
+.fa-check{
+  color: yellow;
+  margin: 7px;
+}
+#why{
+  background-color: #ff896b;
+  padding-bottom: 50px;
+}
+.proImg{
+  height: 500px;
+  width: 500px;
+  border-radius: 100%;
+}
+#productSlide{
+  text-align: center;
+
+}
+.glimpse{
+  text-align: center;
+  color:white;
+}
+.glimsePara{
+  color :white;
+  margin:30px auto 10px auto ;
+  width: 50%;
+  text-align: center;
+}
+.contactDiv{
+  padding: 40px;
+}
+.contactBrand{
+  color:#fa1616;
+  font-size:2.5rem;
+}
+.finaldes{
+  color: #8c8b8b;
+  font-size: 1rem;
+}
+.fa-mail-bulk{
+  font-size: 1rem;
+}
+.cu{
+  margin: 5px;
+}
+.logo{
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  border:3px solid lightgreen;
+  border-radius: 100%;
+}
